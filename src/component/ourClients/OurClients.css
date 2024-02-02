@@ -1,0 +1,18 @@
+.ClientsHead{
+    font-size: 120px;
+    font-weight: 700;
+    color: #eeeeee;
+    padding-bottom: 50px;
+    padding-left: 150px;
+}
+.auto6{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+.ClientLogo {
+    padding: 15px !important;
+}
+.s-100{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

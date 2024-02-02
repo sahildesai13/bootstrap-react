@@ -1,0 +1,32 @@
+.AboutUsDtl{
+    background-color: #17191f !important;
+    color: white !important;
+}
+.AboutUsImg{
+    padding-left: 0 !important;
+}
+.AdtlCover{
+    text-align: left;
+}
+.AdtlCover h3{
+    font-weight: 700;
+    font-size: 60px;
+}
+.AdtlCover p{
+    color: rgb(218, 214, 214);
+}
+.gr-text {
+    color: rgb(117, 218, 180);
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(to right, rgb(85, 111, 255), rgb(224, 95, 196), rgb(255, 121, 142)) text;
+}
+p {
+    line-height: 2;
+    margin: 0px;
+}
+ .cont {
+    padding-left: 10% !important;
+    padding-right: 2% !important;
+    padding-top: 5%;
+    /* min-height: 70vh; */
+}

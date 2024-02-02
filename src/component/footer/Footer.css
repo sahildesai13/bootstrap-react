@@ -1,0 +1,41 @@
+.footer{
+    background-color: #17191f;
+    color: white;
+    text-align: left;
+}
+.ContactUs h3{
+    font-weight: 600;
+}
+
+.conLogo{
+    font-size: 50px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.contactDtl img{
+    width: 100px;
+    max-height: 65px;
+}
+.footerPart2Img img{
+    padding-right: 20px !important;
+}
+.footerPart2 p,.footerPart2 span{
+    font-size: 14px;
+    margin: 0 !important;
+}
+.footerPart2 span{
+    color: aquamarine;
+}
+.email{
+    background-color: transparent;
+    border: 1px solid  rgb(103, 103, 103);
+    padding: 10px;
+    width: 80%;
+    border-radius: 50px;
+}
+.ContEmail{
+    background: aquamarine;
+    color: black;
+    border-radius: 50px;
+    padding: 10px 15px;
+}

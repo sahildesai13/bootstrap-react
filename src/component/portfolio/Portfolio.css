@@ -1,0 +1,30 @@
+.MainHeader h6 ,.teamTitle h6,.articleTitle h6{
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    position: relative;
+}
+.MainHeader h3 ,.teamTitle h2,.articleTitle h3{
+    color: #222733;
+    font-weight: 700;
+    font-size: 48px;
+}
+.column{
+    margin: 15px 0px;
+}
+.ProjectRow{
+    position: relative;
+    overflow: hidden;
+}
+.ProjectRow::after{
+    position: absolute;
+    content: '';
+    top: 65%;
+    left: 0;
+    background-color: #17191f;
+    width: 100%;
+    height: 50%;
+    z-index: -10;
+}

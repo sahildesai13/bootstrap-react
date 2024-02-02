@@ -1,0 +1,14 @@
+.serviceDtl{
+    text-align: left !important;
+}
+.serviceDtl h6{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.serviceDtl p {
+    color: rgb(109, 109, 109);
+    font-size: 16px;
+    line-height: 2;
+    margin: 0px;
+}

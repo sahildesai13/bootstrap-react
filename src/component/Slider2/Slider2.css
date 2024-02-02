@@ -1,0 +1,44 @@
+.Slider2{
+    background-color: #17191f;
+    color: white;
+}
+.SliderItem{
+    width: 100%;
+    /* height: 100px; */
+    /* background-color: aquamarine; */
+}
+.SliderItem p{
+    font-size: 24px;
+    text-align: left;
+}
+.QuoteImg{
+    display: inline-block;
+    padding: 100px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.SliderItem h6{
+    padding-left: 45px;
+    position: relative;
+    font-size: 22px;
+    text-align: left;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(to right,rgb(85,111,255),rgb(224,95,196),rgb(255,121,142)) text;
+}
+.dash{
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    background-color: white;
+    height: 1px;
+    width: 40px;
+    display: inline-block;
+}
+.Slider2 .carousel .carousel-indicators{
+    display: none !important;
+}
+.Slider2Btn{
+    width: 50px;
+    padding: 10px 15px !important;
+    font-size: 16px !important;
+}

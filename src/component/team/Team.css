@@ -1,0 +1,16 @@
+.auto4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.teamMember {
+    overflow: hidden;
+    padding: 0 !important;
+}
+
+.teamMember img {
+    transition: 0.3s;
+}
+.teamMember img:hover {
+    transform: scale(1.1);
+}
